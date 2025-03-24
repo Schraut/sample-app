@@ -15,6 +15,8 @@ I used TypeScript since it helps identify any errors that may occur and defines 
 For the components, I built them from scratch and didn't install any third party libraries. 
 
 # Screenshots
+# Android
 ![Android screenshot](assets/android-screenshot.png)
 
+# iOS
 ![iOS screenshot](assets/ios-screenshot.png)
